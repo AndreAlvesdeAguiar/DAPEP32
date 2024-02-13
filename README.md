@@ -1,5 +1,7 @@
 Detalhes: https://www.linkedin.com/pulse/construindo-um-middleware-para-armazenamento-de-dados-andr%2525C3%2525A9-whydf%3FtrackingId=JGDvNIgxRouRD%252FTbUeVpug%253D%253D/?trackingId=JGDvNIgxRouRD%2FTbUeVpug%3D%3D
 
+API ESP32 - https://github.com/AndreAlvesdeAguiar/PROJETO_ESP32/blob/main/02_2024
+
 # SELECT * FROM sensor_data;
 
     id|                                                  data                                        
